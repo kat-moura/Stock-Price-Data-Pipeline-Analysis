@@ -21,7 +21,7 @@ This project is part of a group effort to create a data pipeline that fetches st
 ## Installation and Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/stock-price-data-pipeline.git
+   git clone https://github.com/yourusername/Stock-Price-Data-Pipeline-Analysis.git
    cd stock-price-data-pipeline
 
 ## Disclaimers
