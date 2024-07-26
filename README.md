@@ -22,7 +22,7 @@ This project is part of a group effort to create a data pipeline that fetches st
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/Stock-Price-Data-Pipeline-Analysis.git
-   cd stock-price-data-pipeline
+   cd Stock-Price-Data-Pipeline-Analysis
 
 ## Disclaimers
 1. **Google Colab Connection to Local SQL Database:**
