@@ -1,8 +1,6 @@
 # Stock-Price-Data-Pipeline-Analysis
 A data pipeline project that fetches, processes, stores, and analyzes stock price data using Apache Beam, MySQL, Airflow, and Python.
 
-# Stock Price Data Pipeline and Analysis
-
 ## Project Overview
 This project is part of a group effort to create a data pipeline that fetches stock price data from financial APIs, processes it using Apache Beam, stores it in a MySQL database, and performs basic analysis and visualization using Python in Google Colab. The project leverages Apache Airflow for scheduling and automation of tasks.
 
