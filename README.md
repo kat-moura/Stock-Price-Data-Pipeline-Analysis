@@ -23,7 +23,8 @@ This project is part of a group effort to create a data pipeline that fetches st
    ```bash
    git clone https://github.com/yourusername/stock-price-data-pipeline.git
    cd stock-price-data-pipeline
-                                                                          _________________________________________________________
+
+                                                                           _________________________________________________________
 ## Disclaimers
 1. **Google Colab Connection to Local SQL Database:**
    - This project currently does not automate the connection between Google Colab and a local SQL database. However, it can be automated using tools like ngrok or SSH tunneling to securely expose your local database to the internet for access from Google Colab.
