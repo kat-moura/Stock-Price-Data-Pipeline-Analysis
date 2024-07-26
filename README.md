@@ -24,14 +24,12 @@ This project is part of a group effort to create a data pipeline that fetches st
    git clone https://github.com/yourusername/stock-price-data-pipeline.git
    cd stock-price-data-pipeline
 
-                                                                           _________________________________________________________
 ## Disclaimers
 1. **Google Colab Connection to Local SQL Database:**
    - This project currently does not automate the connection between Google Colab and a local SQL database. However, it can be automated using tools like ngrok or SSH tunneling to securely expose your local database to the internet for access from Google Colab.
 
 2. **Apache Airflow Integration:**
    - The Apache Airflow DAGs included in this project outline the tasks required for the data pipeline, but they are not fully integrated and automated within the project. Due to time constraints, we did not implement a fully automated workflow using Airflow. Future improvements could include more in-depth utilization of Airflow for task scheduling and automation.
-                                                                          _________________________________________________________
 
 ## Acknowledgments
 
